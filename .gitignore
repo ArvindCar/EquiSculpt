@@ -1,6 +1,7 @@
 # Data and outputs
 data/
 log/
+wandb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
